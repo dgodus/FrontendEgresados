@@ -1,3 +1,6 @@
+@utor_Godofredo editproyect 
+____________________________
+Todos los Derechos reservados 2020
 # Frontend
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.1.0.
